@@ -8,7 +8,7 @@ O objetivo do projeto é permitir que o usuário sorteie números aleatórios de
 
 ---
 
-## Funcionalidades implementadas
+## Funcionalidades Implementadas
 
 - Captura dos valores digitados pelo usuário
 - Validação para garantir que o número mínimo seja menor que o máximo
@@ -20,7 +20,7 @@ O objetivo do projeto é permitir que o usuário sorteie números aleatórios de
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 - HTML (estrutura base)
 - CSS (estilização)
