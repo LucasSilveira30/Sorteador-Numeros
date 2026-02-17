@@ -3,7 +3,7 @@ function sortear() {
     let de = parseInt(document.getElementById('de').value);
     let ate = parseInt(document.getElementById('ate').value);
 
-        if (de >= ate) {
+    if (de >= ate) {
         alert('O valor do número mínimo deve ser menor que o valor do número máximo.');
         return;
     }
