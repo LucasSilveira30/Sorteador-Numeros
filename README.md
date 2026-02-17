@@ -6,6 +6,8 @@ A estrutura em HTML e CSS já estava pronta, e minha parte foi desenvolver toda 
 
 O objetivo do projeto é permitir que o usuário sorteie números aleatórios dentro de um intervalo definido.
 
+---
+
 ## Funcionalidades implementadas
 
 - Captura dos valores digitados pelo usuário
